@@ -9,7 +9,7 @@
 
 ```bash
 $ whoami
-beginner developer
+ethtoolq
 
 $ os
 linux mint
@@ -54,19 +54,13 @@ backend
 
 ### 📊 github статистика
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ethtoolq\&show_icons=true\&hide_border=true)
 
 ---
 
 ### 🔥 активность
 
-![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&hide_border=true)
-
----
-
-### 👀 visitors
-
-![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![streak](https://streak-stats.demolab.com/?user=ethtoolq\&hide_border=true)
 
 ---
 
