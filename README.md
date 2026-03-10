@@ -48,6 +48,7 @@ backend
 
 * simple todo cli
 * password generator
+* minifetch
 * небольшие python проекты
 
 ---
