@@ -50,6 +50,7 @@ backend
 * password generator
 * minifetch
 * loganalyzer
+* webscraper
 * небольшие python проекты
 
 ---
