@@ -1,7 +1,7 @@
-## 👋 привет
+## 👋 hello
 
-я начинающий разработчик.
-изучаю программирование и делаю небольшие проекты для практики.
+a beginner developer.
+learning programming and working on small projects for practice.
 
 ---
 
@@ -23,16 +23,16 @@ backend
 
 ---
 
-### 💻 сейчас изучаю
+### 💻 currently learning
 
 * python
 * c#
-* веб-разработку
-* backend разработку
+* web
+* backend
 
 ---
 
-### 🐧 инструменты
+### 🐧 tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" height="35"/>
@@ -44,27 +44,27 @@ backend
 
 ---
 
-### 📌 проекты
+### 📌 current projects
 
 * simple todo cli
 * password generator
 * minifetch
 * loganalyzer
 * webscraper
-* небольшие python проекты
+* small python projects
 
 ---
 
-### 📊 github статистика
+### 📊 github stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ethtoolq\&show_icons=true\&hide_border=true)
 
 ---
 
-### 🔥 активность
+### 🔥 activity
 
 ![streak](https://streak-stats.demolab.com/?user=ethtoolq\&hide_border=true)
 
 ---
 
-⭐ спасибо за посещение моего профиля
+⭐ thank you for visiting my profile
