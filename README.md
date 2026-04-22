@@ -29,6 +29,8 @@ backend
 * c#
 * web
 * backend
+* blender
+* roblox studio
 
 ---
 
