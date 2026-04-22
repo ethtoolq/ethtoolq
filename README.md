@@ -19,6 +19,8 @@ python
 c#
 web
 backend
+blender
+roblox studio
 ```
 
 ---
