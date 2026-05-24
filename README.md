@@ -12,7 +12,7 @@ $ whoami
 ethtoolq
 
 $ os
-linux mint
+arch linux
 
 $ learning
 python
@@ -20,7 +20,7 @@ c#
 web
 backend
 blender
-roblox studio
+
 ```
 
 ---
@@ -32,7 +32,7 @@ roblox studio
 * web
 * backend
 * blender
-* roblox studio
+
 
 ---
 
